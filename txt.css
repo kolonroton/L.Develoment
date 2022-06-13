@@ -1,0 +1,121 @@
+body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    background-color: cadetblue;
+}
+
+.menu{
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    background:rgb(96, 117, 138) ;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu li a{
+   text-decoration: none; 
+   color: azure;
+   padding: 20px;
+   display: block;
+
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: chartreuse;
+}
+
+.html{
+    text-align: center;
+}
+
+.html2{
+    text-align: center;
+}
+
+.html3{
+    text-align: center;
+}
+
+.img{
+    position: fixed;
+    left: 50px;
+    top: 200px;
+}
+
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        position: fixed;
+        background: #ccc;
+        height: 250px;
+        width: 300px;
+        border-radius: 10%;
+        left: 70px;
+        top: 250px;
+}
+
+
+.text2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.descarga{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        position: relative;
+        background: #ccc;
+        height: 250px;
+        width: 300px;
+        margin: 7rem auto;
+        text-align: center;
+        border-radius: 10%;
+}
+
+.python2{
+    text-decoration: none;
+    background: rgb(47, 213, 255);
+    height: 250px;
+    width: 300px;
+}
+
+.python2 li a :hover{
+    background: darkolivegreen;
+}
+
+.python3{
+    text-decoration: none;
+    background: rgb(255, 77, 77);
+    height: 250px;
+    width: 300px;
+}
+
+.tecx{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        position: fixed;
+        background: #ccc;
+        height: 250px;
+        width: 300px;
+        border-radius: 10%;
+        left: 70px;
+        top: 250px;
+}
+
+.image{
+    position: fixed;
+    right: 70px;
+    top: 250px;
+    border-radius:10%;
+}
+
+.img2{
+    position: fixed;
+    right: 70px;
+    top: 250px;
+    border-radius:10%;
+}
